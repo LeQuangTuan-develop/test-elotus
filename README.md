@@ -1,19 +1,25 @@
-## test-elotus
+## Test-elotus
 
 # SET UP SERVER
 
-1. install package
+1. Access homework directory
+
+```bash
+cd homework
+```
+
+2. Install package
 ```bash
 npm install
 ```
-2. run server
+3. Run server
 ```bash
 npm start
 ```
 
 # TEST
 
-## simple OAuth2
+## Simple OAuth2
 
 Access home page
 
@@ -25,7 +31,7 @@ Click "SIGN IN WITH GITHUB" button
 
 Click "Upload image" button
 
-browser will redirect to upload page
+Browser will redirect to upload page
 
 ```bash
 http://localhost:4000/upload
