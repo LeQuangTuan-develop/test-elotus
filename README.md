@@ -37,4 +37,6 @@ Browser will redirect to upload page
 http://localhost:4000/upload
 ```
 
+## Upload file
+
 Choose file and click "Upload your files" button
